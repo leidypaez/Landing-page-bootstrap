@@ -1,0 +1,10 @@
+.bg-image-2 {
+    background-image: url("../../../assets/img/bg_1_parallaz.png");
+  }
+
+  .parallax {
+    height: 60vh;
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+  }
