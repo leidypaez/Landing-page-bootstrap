@@ -1,10 +1,29 @@
 .bg-image-2 {
-    background-image: url("../../../assets/img/bg_1_parallaz.png");
-  }
+  background-image: url("../../../assets/img/bg_1_parallaz.png");
+}
 
-  .parallax {
-    height: 60vh;
-    position: relative;
-    background-size: cover;
-    background-attachment: fixed;
-  }
+.parallax {
+  height: 60vh;
+  position: relative;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.landing {
+  width: 100%;
+}
+
+.btn-read {
+  color: #fff;
+  background-color: #976ECE;
+  align-items: center;
+  padding: 8px 22px;
+  margin-left: 59px;
+}
+
+.cards h5 {
+  color: #976ECE;
+}
+
+.cards span {
+  color: #976ECE;
+}
