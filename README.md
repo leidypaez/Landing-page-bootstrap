@@ -1,9 +1,9 @@
 # Proyecto Maquetación
-![imagen_prototipo]()
+![imagen_prototipo](https://github.com/leidypaez/Landing-page-bootstrap/blob/main/src/assets/img/img_readme.png)
 
 
 ## Link para acceder a la pagina
-[aceeso_pagina](https://landing-page-ogilvy.vercel.app/)
+[CLIK PARA VISUALIZAR EL SITIO WEB](https://landing-page-ogilvy.vercel.app/)
 
 ### Tecnologias
 
