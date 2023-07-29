@@ -20,7 +20,7 @@ import { CardsComponent } from './components/cards/cards.component';
     HomeComponent,
     CarouselComponent,
     InformationComponent,
-    CardsComponent
+    CardsComponent,
   ],
   imports: [
     BrowserModule,
